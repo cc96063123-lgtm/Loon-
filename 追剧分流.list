@@ -3,3 +3,5 @@ DOMAIN, c1.zdz.plus
 DOMAIN, emby.n150.asia
 DOMAIN-KEYWORD, okemby.org
 DOMAIN-KEYWORD, zzm.li
+DOMAIN-KEYWORD, embymv.link
+IP-CIDR, 5.28.192.0/18, no-resolve
