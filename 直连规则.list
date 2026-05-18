@@ -3,4 +3,4 @@ DOMAIN, emby-yd.n150.asia
 DOMAIN, ipa.store
 DOMAIN, dapi.227337.xyz
 DOMAIN-KEYWORD, 115.cdn.net
-IP-CIDR, 51.83.100.187/32
+IP-CIDR, 51.83.100.187/32 no-resolve
