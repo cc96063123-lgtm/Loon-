@@ -3,7 +3,4 @@ DOMAIN, emby-yd.n150.asia
 DOMAIN, ipa.store
 DOMAIN, dapi.227337.xyz
 DOMAIN-KEYWORD, 115.cdn.net
-DOMAIN, yusen.ccwu.cc
-DOMAIN, yusen.us.ci
-DOMAIN, emby.yusen6.ccwu.cc
-DOMAIN, ykj-eos-wx2-01.eos-wuxi-3.cmecloud.cn
+IP- CIDR, 51.83.100.187/32
