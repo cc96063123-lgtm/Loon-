@@ -4,6 +4,6 @@ DOMAIN, yd01.n150.asia
 DOMAIN, emby-yd.n150.asia
 DOMAIN, ipa.store
 DOMAIN-KEYWORD, 115.cdn.net
-DOMAIN, yusen
+DOMAIN-SUFFIX, 139.com
 DOMAIN-SUFFIX, cmecloud.cn
 IP-CIDR, 51.83.100.187/32
